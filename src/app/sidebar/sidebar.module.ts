@@ -8,6 +8,7 @@ import {RouterModule} from '@angular/router';
     CommonModule,
     RouterModule
   ],
+  exports: [SidebarComponent],
   declarations: [SidebarComponent]
 })
 export class SidebarModule {

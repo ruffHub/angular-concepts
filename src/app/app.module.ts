@@ -7,7 +7,6 @@ import {TestModule} from './features/test/test.module';
 import {StylingModule} from './features/styling/styling.module';
 import {RouterModule} from '@angular/router';
 import {SidebarModule} from './sidebar/sidebar.module';
-import {SidebarComponent} from './sidebar/sidebar/sidebar.component';
 
 @NgModule({
   declarations: [
